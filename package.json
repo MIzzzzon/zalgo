@@ -5,7 +5,8 @@
   "main": "zalgo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "uglifyjs zalgo.js -o bookmarklet.js"
+    "uglify": "uglifyjs zalgo.js -o bookmarklet.js",
+    "build": "./build.sh"
   },
   "repository": {
     "type": "git",

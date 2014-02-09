@@ -4,7 +4,7 @@ Zalgo in a bookmarklet!
 
 ## Usage
 
-Copy and paste `bookmarklet.js` into a new bookmark. Find your favorite webiste and click the bookmark.
+Paste the contents of `bookmarklet.js` into a new bookmark. Find your favorite webiste and click the bookmark.
 
 ## Build
 
