@@ -1,0 +1,24 @@
+{
+  "name": "zalgo",
+  "version": "0.0.0",
+  "description": "zalgo =====",
+  "main": "zalgo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "uglifyjs zalgo.js -o bookmarklet.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/landau/zalgo.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/landau/zalgo/issues"
+  },
+  "homepage": "https://github.com/landau/zalgo",
+  "devDependencies": {
+    "uglifyjs": "~2.3.6",
+    "uglify-js": "~2.4.12"
+  }
+}
